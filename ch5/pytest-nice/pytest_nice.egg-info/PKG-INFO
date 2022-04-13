@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pytest-nice
+Version: 0.1.0
+Summary: A pytest plugin to turn FAILURE into OPPORTUNITY
+Home-page: https://wherever/you/have/info/on/this/package
+Author: Iorvit
+Author-email: your_email@somewhere.com
+License: proprietary
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
